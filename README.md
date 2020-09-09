@@ -1,2 +1,2 @@
 # cv
-A simple but effective CV online
+A simple but effective HTML CV.
